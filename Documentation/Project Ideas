@@ -1,0 +1,29 @@
+Data Sets
+Anders: Data Science Job Market
+Xavier: Salary by state for software developers (Source:)  https://insights.dice.com/2019/06/20/states-software-developers-earn-money/
+Mehk: Death Rate between NC & SC 
+Seth: IT Skill Gap
+
+Customer Identity
+Anders: Data scientists in the U.S. looking for employment
+Xavier: Software Developers in the U.S.
+Mehk: The customer would be to North and South Carolina state officials.
+Seth: Students in Computer Science
+
+Problem/Solution
+Anders: Data scientists looking for employment in the field of data science in the U.S. A comprehensive analysis of the job market in the U.S. giving average salary in the country, region, and state wide in order to guide potential new employees where to look for employment.
+Xavier: Software developers looking to relocate to a different state but not knowing where they can make the most money. A comprehensive breakdown of which states pay software developers the most.
+Mehk: State officials and health officials can do a comprehensive analysis of the death rate between North and South so workers can create a solution.
+Seth: Technology and computing is changing everyday, 4 years of college isn’t going to adapt you to the change in technology at large. In order to adapt to the changes, you must adapt WITH the changes
+
+Product Vision
+Anders: A website where a user can compare their current salary or desired salary to what region or state they wish to work in, along with the national median and average salary to offer more insight.
+Xavier: A site where the user could go to compare the median annual pay by state in order to determine where they would like to work.
+Mehk: A website where the user can see data between the two states and determine a solution.
+Seth: A website/app which keeps IT students up to date on the newest advancements and if it applies to their major and shows a comparison to what they know and what they NEED to know
+
+Major Features
+Anders: A large map of the United States, where the user can click on the state and get data for employment in said state, such as state-wide average salary, as well as average salary in city per capita.
+Xavier: Pick states to easily compare values instead of scrolling through the entire list.
+Mehk: Be able to check the years and see the death rate over time and possibly check if there were major events during the year.
+Seth: A sign in for the school in order to get free access as well as automatically factor in classes the student is taking to accommodate what they will need to know out of the classes they’re in
